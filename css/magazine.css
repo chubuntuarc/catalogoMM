@@ -122,7 +122,7 @@ body{
 }
 
 .magazine-viewport .loader{
-	background-image:url(../pics/loader.gif);
+	background-image:url(pics/loader.gif);
 	width:22px;
 	height:22px;
 	position:absolute;
