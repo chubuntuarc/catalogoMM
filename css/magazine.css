@@ -5,6 +5,24 @@ body{
 	padding:0;
 }
 
+.des
+{
+	position: absolute;
+	height: 100px;
+	width: 100px;
+	top: 15%;
+	font-size: 20px;
+}
+
+.descarga 
+{
+	position: absolute;
+	background-image: url(../pics/adobe.png);
+	background-size: contain;
+	height: 100px;
+	width: 100px;
+}
+
 .magazine-viewport .container{
 	position:absolute;
 	top:50%;
@@ -122,7 +140,7 @@ body{
 }
 
 .magazine-viewport .loader{
-	background-image:url(pics/loader.gif);
+	background-image:url(../pics/loader.gif);
 	width:22px;
 	height:22px;
 	position:absolute;
